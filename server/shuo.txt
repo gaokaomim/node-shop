@@ -1,0 +1,7 @@
+通过命令 express server  生成
+bin 可执行文件 封装http 还有些配置文件 www是可以执行文件
+pubilc 静态资源
+routes 路由 服务端访问的地址
+views 视图存放是模板 layout.jade是公用模板
+app.js 是入口文件
+package.json 需要的包
